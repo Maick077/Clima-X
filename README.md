@@ -15,19 +15,9 @@ O usuário digita o nome de uma cidade e recebe informações em tempo real sobr
 
 ## 🛠️ Tecnologias usadas
 
-- **HTML5**  
-- **CSS3**  
-- **JavaScript (ES6+)**  
+- **HTML**  
+- **CSS**  
+- **JavaScript**  
 - [OpenWeatherMap API](https://openweathermap.org/api)  
 - [FlagCDN](https://flagcdn.com/)  
 
-## 📸 Demonstração
-
-![preview](./screenshot.png)  
-*(adicione um print do projeto rodando aqui)*
-
-## 📂 Como rodar o projeto
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/clima-x.git
