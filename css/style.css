@@ -6,7 +6,7 @@
 }
 
 body {
-    background: linear-gradient(180deg, #4B0082 0%, #000000 100%);
+    background: linear-gradient(180deg, #009C3B 0%, #002776 100%);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -18,10 +18,10 @@ body {
 }
 
 .container {
-    background-color: #4B0082;
+    background-color: #002776;
     box-shadow: rgb(0, 0, 0, .24) 0px 3px 8px;
     padding: 2rem;
-    color: #DCDCDC;
+    color: #FFFFFF;
     border-radius: 1rem;
 }
 
@@ -45,8 +45,8 @@ body {
     padding: 0.8rem;
     min-width: 50px;
     margin-left: 8px;
-    background-color: #000000;
-    color: #DCDCDC;
+    background-color: #FFDF00;
+    color: #002776;
     border: none;
     border-radius: 4px;
     cursor: pointer;
@@ -54,7 +54,7 @@ body {
 
 /* Clima */
 #weather-data {
-    border-top: 1px solid #DCDCDC;
+    border-top: 1px solid #FFDF00;
     margin-top: 1.5rem;
     padding-top: 1.5rem;
     text-align: center;
@@ -98,8 +98,7 @@ body {
 }
 
 #details-container #hunidity {
-    border-right: 1px solid #DCDCDC;
+    border-right: 1px solid #FFDF00;
     margin: 0.6rem;
     padding: 0.6rem;
 }
-
